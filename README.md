@@ -1,7 +1,7 @@
-# Tumour-ML-Classifier
+# Tumor-ML-Classifier
 
 ## Description
-The aim of this assignment was to build four different types of classifiers and evaluate their performance. The classification task is to predict whether a tumour is malignant (M) or benign (B).
+The aim of this assignment was to build four different types of classifiers and evaluate their performance. The classification task is to predict whether a tumor is malignant (M) or benign (B).
 Using sklearn, the following classifiers were built
 - a nearest neighbours classifier
 - a decision tree classifier
